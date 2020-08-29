@@ -1,0 +1,15 @@
+total 60
+drwxrwxrwx 1 root root   512 Apr  3 15:14 .
+drwxrwxrwx 1 root root   512 Apr  3 14:54 ..
+-rwxrwxrwx 1 root root   306 Apr  3 15:04 ReadMe.txt
+-rwxrwxrwx 1 root root    14 Apr  3 14:54 file.txt
+-rwxrwxrwx 1 root root    37 Apr  3 14:57 input.txt
+-rwxrwxrwx 1 root root    23 Apr  3 14:54 input2.txt
+-rwxrwxrwx 1 root root 12872 Apr  3 15:14 lab2
+-rwxrwxrwx 1 root root  3280 Apr  3 15:14 lab2.c
+-rwxrwxrwx 1 root root   698 Apr  3 15:16 output.txt
+-rwxrwxrwx 1 root root  8416 Apr  3 14:54 pre
+-rwxrwxrwx 1 root root   796 Apr  3 14:54 pre.c
+-rwxrwxrwx 1 root root  2032 Apr  3 14:54 proj2.txt
+-rwxrwxrwx 1 root root  8520 Apr  3 14:54 sort
+-rwxrwxrwx 1 root root   987 Apr  3 14:54 sort.c

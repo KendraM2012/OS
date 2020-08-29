@@ -1,0 +1,5 @@
+to run type python3 hw4.py [number of frames]
+  example:
+        python3 hw4.py 3
+        or
+        python3 hw4.py 4
